@@ -1,0 +1,79 @@
+
+body{
+	background-color:lightsteelblue;
+}
+h1{
+	background-color: lightgreen;
+	text-align: center;
+	font-style: italic;
+}
+h2.center{
+	color:black; 
+	text-align:center;
+	background-color: lightgreen;
+	font-style: italic;
+}
+p{
+	color:red;
+}
+.lbl-control{
+	font-size:20px;
+	width:100px;
+	font-style:italic;
+
+}
+
+
+/*tag/element selector*/
+
+label{
+	font-size:20px;
+	width:100px;
+	font-style:normal;
+
+}
+
+.pageborder{
+	border:2px solid black;
+	width:600px;
+	height:auto;
+	padding-left:20px;
+	padding-top: 5px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	margin-left:1px;
+}
+
+.input-control{
+	width:150px;
+	margin-left: 75px;
+}
+.input-control1{
+	width:150px;
+	margin-left: 81px;
+}
+.input-control2{
+	width:150px;
+	margin-left: 136px;
+}
+.input-control3{
+	width:150px;
+	margin-left: 92px;
+
+}
+
+.input-control4{
+	width:150px;
+	margin-left: 127px;
+}
+.input-control5{
+	width:150px;
+	margin-left: 100px;
+
+}
+.input-control6{
+	width:150px;
+	margin-left: 170px;
+
+}
+
