@@ -17,7 +17,7 @@ function getEmployeedetails(){
 					{fName:"nandu",lName:"chowdary"},
 					{fName:"priya",lName:"venkat"},
 					{fName:"sai",lName:"yalamanchili"},
-					{fname:"venkat",lname:"koganti"}
+					{fName:"venkat",lName:"koganti"}
 					];
 return employees;					
 }
